@@ -1,0 +1,12 @@
+Task No 1: 
+You have to create a variable name a which contains sting "Your Name";
+then create one more variable names b which contains alert()
+lekin alert mai woh aana chahiye jo aapne var a mai likha hai.
+
+Task No 2
+You have to create a var which contains your name
+one more variable which contains your father name
+now one more variable name final which contains the value of above two variables
+last variable contains sting "Full Name"
+now alert
+alert mai sab se pehle last wala variable aana chahiye phr final
